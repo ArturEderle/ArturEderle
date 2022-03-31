@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Artur Ederle a.k.a @BldyWeapon
+- 👋 Hi, I’m Artur Ederle
 - 👀 I’m interested in IT-Security / Cyber Security and Programming
 - 🌱 I’m currently learning Cyber Security related stuff through CTFs
 - 📫 How to reach me: just send me a message
